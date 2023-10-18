@@ -1,6 +1,1 @@
-﻿namespace internship_exercise_1.Pages
-{
-    public class date
-    {
-    }
-}
+﻿17/10/2023
